@@ -1,0 +1,8 @@
+ffmpeg-python
+webrtcvad-wheels
+noisereduce
+pydub
+soundfile
+numpy
+librosa
+pyrnnoise
